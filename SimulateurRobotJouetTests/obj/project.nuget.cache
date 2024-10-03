@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "W5RYSCdlgfc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\ConsoleAppTest\\SimulateurRobotJouetTests\\SimulateurRobotJouetTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

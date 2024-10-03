@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lenovo\\source\\repos\\ConsoleAppTest\\SimulateurRobotJouetTests\\SimulateurRobotJouetTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lenovo\\source\\repos\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj",
+        "projectName": "ConsoleAppTest",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Lenovo\\source\\repos\\ConsoleAppTest\\SimulateurRobotJouetTests\\SimulateurRobotJouetTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\ConsoleAppTest\\SimulateurRobotJouetTests\\SimulateurRobotJouetTests.csproj",
+        "projectName": "SimulateurRobotJouetTests",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\ConsoleAppTest\\SimulateurRobotJouetTests\\SimulateurRobotJouetTests.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\ConsoleAppTest\\SimulateurRobotJouetTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\Lenovo\\source\\repos\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\ConsoleAppTest\\ConsoleAppTest\\ConsoleAppTest.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

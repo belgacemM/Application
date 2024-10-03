@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\SimulateurRobotJouet.exe.config
+C:\Users\Lenovo\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\SimulateurRobotJouet.exe
+C:\Users\Lenovo\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\SimulateurRobotJouet.pdb
+C:\Users\Lenovo\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\nunit.framework.dll
+C:\Users\Lenovo\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\nunit.framework.xml
+C:\Users\Lenovo\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleA.61122421.Up2Date
+C:\Users\Lenovo\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\SimulateurRobotJouet.exe
+C:\Users\Lenovo\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\SimulateurRobotJouet.pdb
